@@ -7,3 +7,4 @@ Hongjie Zhu, [Zeyu Zhang](https://example.com/zeyu), Guansong Pang, Xu Wang, Shi
 *Corresponding author
 
 [arXiv] [Paper with Code]
+![项目相关的描述](image.png)
