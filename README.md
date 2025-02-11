@@ -14,12 +14,12 @@ Weakly supervised semantic segmentation (WSSS) typically utilizes limited semant
 
 # Environment Setup
 
-To set up the environment for GAMED-Snake, follow these steps:
+To set up the environment for DOEI, follow these steps:
 
 ```sh
 # create a clean conda environment from scratch
-conda create --name GAMEDSnake python=3.7
-conda activate GAMEDSnake
+conda create --name DOEI python=3.7
+conda activate DOEI
 
 # install pip
 conda install ipython
