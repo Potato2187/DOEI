@@ -27,14 +27,3 @@ conda install pip
 
 # install required packages
 pip install -r requirements.txt
-
-# Training
-
-## Import Dataset Path
-
-All dataset paths for this project are set in the configuration files `sbd_snake.yaml` and `config.py`. Please modify the paths to match your actual dataset paths, set the training parameters, and then start model training.
-
-### Start Training
-
-```sh
-python train_net.py --cfg_file configs/sbd_snake.yaml model sbd_snake
